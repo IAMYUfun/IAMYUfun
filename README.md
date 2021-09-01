@@ -9,7 +9,7 @@
 
 
 ### 🌈 My Github State
-![Linn Github State](https://github-readme-stats.vercel.app/api?username=IAMYUfun&show_icons=true&count_private=true)
+![IAMYUfun Github State](https://github-readme-stats.vercel.app/api?username=IAMYUfun&show_icons=true&count_private=true&theme=radical)
 ### 📊 Most Used Languages
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs?username=IAMYUfun)
 
