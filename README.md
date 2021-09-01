@@ -19,7 +19,7 @@
 
 ### 💬 Want to say
 
-The key to a beautiful life is what you can get hooked on.
+The key to a beautiful life is what you can get hooked on. -《Ball lightning》
 
-> 美妙人生的关键在于你能迷上什么东西。-《马戏之王》
+> 美妙人生的关键在于你能迷上什么东西。-《球状闪电》
 
