@@ -7,6 +7,7 @@
 > QQ：1474998838
 ### 📚 My Blog Address
 
+> iamyufun.github.io
 
 ### 🌈 My Github State
 ![IAMYUfun Github State](https://github-readme-stats.vercel.app/api?username=IAMYUfun&show_icons=true&count_private=true&theme=radical)
